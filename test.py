@@ -3,7 +3,7 @@ from calc import suma
 
 def test_suma_numeros():
  # Prueba 1: suma de dos numeros enteros
-    assert suma(2, 3) == 5
+    assert suma(2, 3) == 6
 # Prueba 10: suma de dos numeros enteros
     assert suma(3, 3) == 6
  # Prueba 2: suma de dos numeros decimales
